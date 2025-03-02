@@ -1,6 +1,5 @@
 name: Trigger Lambda via Webhook
 
-
 on:
   push:
     branches:
