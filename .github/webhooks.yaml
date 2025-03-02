@@ -2,7 +2,7 @@ name: Trigger Lambda via Webhook
 
 on:  
   schedule:
-    - cron: '40 20 * * *' # Runs every day at 12:00 UTC
+    - cron: '41 20 * * *' # Runs every day at 12:00 UTC
 
 jobs:
   trigger-lambda:
